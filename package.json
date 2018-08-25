@@ -1,0 +1,19 @@
+{
+  "name": "design-app",
+  "version": "1.0.0",
+  "description": "file to start any project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmednour/app.git"
+  },
+  "author": "ahmed nour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmednour/app/issues"
+  },
+  "homepage": "https://github.com/ahmednour/app#readme"
+}
